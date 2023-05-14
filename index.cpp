@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	cout << "Nama : Akhmad Sakhoji Jamaludin" << endl;
-	cout << "NIM : 191011401699\n" << endl;
+	// cout << "NIM : 191011401699\n" << endl;
 
 	int i,k;
 	int *pNilaiMHS[JML_MHS],NILAI[JML_MHS][JML_MK];
